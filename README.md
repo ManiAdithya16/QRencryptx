@@ -22,7 +22,7 @@ Install dependencies: pip install -r requirements.txt.
 
 Run: python main.py.
 
-The app runs on http://0.0.0.0:5000.
+The app runs on https://qrcryptx-1.onrender.com/
 
 Usage
 Encrypt: Visit the homepage (/), upload a file, and receive a QR code, File ID, and Decryption Key.
